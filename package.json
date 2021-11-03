@@ -11,6 +11,6 @@
   "license": "ISC",
   "dependencies": {
     "mongoose": "^5.9.19",
-    "validator": "^13.1.1"
+    "validator": "^13.7.0"
   }
 }
